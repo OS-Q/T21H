@@ -1,12 +1,12 @@
-﻿# D106：[GSM通信](https://github.com/OS-Q/D106)
+﻿# D115：[2G通道](https://github.com/OS-Q/D115)
 
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
-#### 归属通信增强：[W16](https://github.com/OS-Q/W16)
+#### 归属广域通道：[W17](https://github.com/OS-Q/W17)
 
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
-## [平台描述](https://github.com/OS-Q/D106/wiki) 
+## [设备描述](https://github.com/OS-Q/D115/wiki) 
 
 M26是一款超小的四频LCC封装GSM/GPRS模块,尺寸仅为15.8mm×17.7mm×2.3mm，最大限度地满足终端产品对小尺寸模块产品需求,有效帮助客户减小产品尺寸并优化产品成本。
 
@@ -17,6 +17,7 @@ M26采用更易于焊接的LCC封装,可通过标准SMT设备实现模块的快�
 
 ### [资源](OS-Q/)
 
+#### [数据手册](docs/)
 
 ---
 
@@ -24,36 +25,35 @@ M26采用更易于焊接的LCC封装,可通过标准SMT设备实现模块的快�
 
 - naming patterns：system Q[1,4] -> node M[1,12] -> platform W[1,52] -> device D[1,365]
 
-## [同级设备](https://github.com/OS-Q/W16/wiki) 
+## [同级设备](https://github.com/OS-Q/W17/wiki) 
 
-#### -> D106：[GSM通信设备](https://github.com/OS-Q/D106)
+#### D113：[NB通道](https://github.com/OS-Q/D113)
 
-基于2G蜂窝网的通信设备，较强的通信适配能力和广域的传输能力
+基于NB-IOT设备的通信连接管道
 
-#### D107：[NB-IoT设备](https://github.com/OS-Q/D107)
+#### D114：[eMTC通道](https://github.com/OS-Q/D114)
 
-基于NB-IoT网络的通信设备，具有低功耗和广域的传输能力
+基于eMTC设备的通信连接管道
 
-#### D108：[NULL](https://github.com/OS-Q/D108)
+#### -> D115：[2G通道](https://github.com/OS-Q/D115)
 
+基于2G GSM设备的通信连接管道
 
-
-#### D109：[NULL](https://github.com/OS-Q/D109)
-
-
-
-#### D110：[NULL](https://github.com/OS-Q/D110)
+#### D116：[3G通道](https://github.com/OS-Q/D116)
 
 
 
-#### D111：[NULL](https://github.com/OS-Q/D111)
+#### D117：[4G通道](https://github.com/OS-Q/D117)
 
 
 
-#### D112：[NULL](https://github.com/OS-Q/D112)
+#### D118：[5G通道](https://github.com/OS-Q/D118)
 
 
 
+#### D119：[LoRa管道](https://github.com/OS-Q/D119)
+
+基于LoRa的管道无线设备
 
 ---
 
