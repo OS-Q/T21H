@@ -1,12 +1,9 @@
-﻿# D115：[2G通道](https://github.com/OS-Q/D115)
-
-[![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
-
-#### 归属广域通道：[W17](https://github.com/OS-Q/W17)
-
+﻿# [2G moduleA](https://github.com/OS-Q/D116)
+####  qitas@qitas.cn
+#### 归属长距无线：[W17](https://github.com/OS-Q/W17)
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
-
-## [设备描述](https://github.com/OS-Q/D115/wiki) 
+Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
+## [设备描述](https://github.com/OS-Q/D116/wiki) 
 
 M26是一款超小的四频LCC封装GSM/GPRS模块,尺寸仅为15.8mm×17.7mm×2.3mm，最大限度地满足终端产品对小尺寸模块产品需求,有效帮助客户减小产品尺寸并优化产品成本。
 
@@ -15,49 +12,22 @@ M26采用更易于焊接的LCC封装,可通过标准SMT设备实现模块的快�
 凭借超小的尺寸,超低功耗和超宽工作温度范围,M26是M2M应用的理想解决方案,适用于车载、可穿戴设备、工业级PDA、个人跟踪、无线POS、智能计量及其它M2M的应用,为其提供完善的短信、数据传输及语音等服务。
 
 
-### [资源](OS-Q/)
-
-#### [数据手册](docs/)
-
----
-
-- 边缘设备命名规则：体系 Q:[1,4] -> 节点 M:[1,12] -> 平台 W:[1,52] -> 设备 D:[1,365]
-
-- naming patterns：system Q[1,4] -> node M[1,12] -> platform W[1,52] -> device D[1,365]
-
-## [同级设备](https://github.com/OS-Q/W17/wiki) 
-
-#### D113：[NB通道](https://github.com/OS-Q/D113)
-
-基于NB-IOT设备的通信连接管道
-
-#### D114：[eMTC通道](https://github.com/OS-Q/D114)
-
-基于eMTC设备的通信连接管道
-
-#### -> D115：[2G通道](https://github.com/OS-Q/D115)
-
-基于2G GSM设备的通信连接管道
-
-#### D116：[3G通道](https://github.com/OS-Q/D116)
+### [设备资源](OS-Q/)
 
 
 
-#### D117：[4G通道](https://github.com/OS-Q/D117)
+#### [设备相关](https://github.com/OS-Q/D116)
+
+* W17：[长距无线](https://github.com/OS-Q/W17)
+    * D113：[LoRa module](https://github.com/OS-Q/D113)
+    * D114：[NB module](https://github.com/OS-Q/D114)
+    * D115：[eMTC module](https://github.com/OS-Q/D115)
+    * [D116：2G moduleA](https://github.com/OS-Q/D116)
+    * D117：[2G moduleS](https://github.com/OS-Q/D117)
+    * D118：[4G moduleA](https://github.com/OS-Q/D118)
+    * D119：[4G moduleS](https://github.com/OS-Q/D119)
 
 
-
-#### D118：[5G通道](https://github.com/OS-Q/D118)
-
-
-
-#### D119：[LoRa管道](https://github.com/OS-Q/D119)
-
-基于LoRa的管道无线设备
-
----
-
-####  © qitas@qitas.cn
-###  [OS-Q redefined Operation System](http://www.OS-Q.com)
-####  @ 2019-1-16
+### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/Edge/D116)
+####  2019-5-3 
 
