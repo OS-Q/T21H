@@ -1,9 +1,11 @@
-﻿# [2G moduleA](https://github.com/OS-Q/D116)
+﻿# [2G module A](https://github.com/OS-Q/D116)
 ####  qitas@qitas.cn
-#### 归属长距无线：[W17](https://github.com/OS-Q/W17)
+#### 归属长距管道：[W17](https://github.com/OS-Q/W17)
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
 ## [设备描述](https://github.com/OS-Q/D116/wiki) 
+
+2G module A是GSM无线通信桥接管道，用于转换通信信号
 
 M26是一款超小的四频LCC封装GSM/GPRS模块,尺寸仅为15.8mm×17.7mm×2.3mm，最大限度地满足终端产品对小尺寸模块产品需求,有效帮助客户减小产品尺寸并优化产品成本。
 
@@ -14,7 +16,9 @@ M26采用更易于焊接的LCC封装,可通过标准SMT设备实现模块的快�
 
 ### [设备资源](OS-Q/)
 
-
+- [资源](src/)
+- [文档](docs/)
+- [工程](project/)
 
 #### [设备相关](https://github.com/OS-Q/D116)
 
